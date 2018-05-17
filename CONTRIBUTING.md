@@ -22,7 +22,7 @@ How you can help
 
 There are a few steps that need to be [completed](https://github.com/drakovyrn/Language#status) before a 1.0.* release, but what's most important right now is designing a fully-functional, robust, and modular grammar system that will be the foundation of Language.
 
-Other than assisting with the design of Language, help is also needed in the area of documentation and organization. The documents containing all the rules for Language need to be laid out in a logical and precise manner that will make it simple for new learners to get started. In its current state, the (few) documents available are more like a collection of notes, rather than a manual that one could learn from. Many of the subjects within these documents will be expanded, and as such will need to be split into modular pieces that can be organized further into a directory.
+Other than assisting with the design of Language, help is also needed in the area of documentation, organization, and formatting. The documents containing all the rules for Language need to be laid out in a logical and precise manner that will make it simple for new learners to get started. In its current state, the (few) documents available are more like a collection of notes, rather than a manual that one could learn from. Many of the subjects within these documents will be expanded, and as such will need to be split into modular pieces that can be organized further into a directory.
 
 Other than that, assistance with translations of existing material into other languages will need to be made so that Language can reach as many people around the world as possible.
 
