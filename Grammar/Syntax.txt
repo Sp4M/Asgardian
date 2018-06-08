@@ -1,0 +1,6 @@
+// These are mostly some ideas about what Language's sentence structure will look like.
+// Right now, these are mostly a jumble of ideas, but will find some form of categorization in the future.
+
+Nouns in Language will have the ability to be used as verbs -- that is, instead of saying "I am driving to work", one could theoretically
+say, "I am car-ing to work", in which the verb most closely associated with the object is the presumed verb. This is is an interesting feature, and while I feel
+this may introduce some ambiguity and strange cases at times, this may prove useful in the end.
