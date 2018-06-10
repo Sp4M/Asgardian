@@ -1,0 +1,13 @@
+// This is a document 
+
+Since Language will not have set words or roots until after the design of its grammar and  alphabet,
+testing will be restricted to either dummy words, or simplified English word-chunks.
+
+For example -- a sentence made using simple English word-chunks would look something like this:
+
+	You(subj) now-off-table-remove(verb) you-dog(obj)
+
+This means: Get your dog off the table.
+
+Of course, this is only an approximate example, and may not represent what Language's actual sentence
+structure will look like.
