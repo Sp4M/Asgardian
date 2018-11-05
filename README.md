@@ -1,7 +1,7 @@
 Language
 ========
 
-Language is an Auxilliary Language, not a conlang, designed to be powerful, flexible, resiliant, and useful.
+Language is an Auxilliary Language -- not a conlang -- designed to be powerful, flexible, resiliant, and useful.
 
 Summary
 -------
@@ -15,6 +15,8 @@ Language is meant to be useful, though not necessarily easy. Efficiency is prefe
 Language is planned to contain features that are seen in many languages, allowing users of Language to be as flexible as possible with the way they express and share their ideas. This will also allow native speakers of various languages to find familiarity in Language, and utilize its flexibility in a way that feels as natural as their own native tongue.
 
 Despite its potential feature creep, Language will be designed with the idea that what doesn't need to be said, shouldn't be said. Ideas that are commonly expressed in some languages, and are often viewed as relevant by a culture that uses said language, may not have the same level of relevance in another. For example: in English, it is common (and usually expected) for one to specify the sex, or gender, of an individual when speaking of them. In Chinese, it is not very common to specify the sex, or gender, unless it is necessary. Language will not have gendered pronouns, and will not require it unless the speaker so wishes. This is, of course, not the only example, but it should give potential contributors an idea of how Language is intended to function.
+
+Language will also feature something I call "defaults", in which any parts of a sentence not explicitly defined will default to a common value, such that a sentence may be as short as a single word, and will still yet be considered a full sentence and also grammatically coherent.
 
 Status
 ------
