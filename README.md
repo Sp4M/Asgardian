@@ -16,10 +16,23 @@ Despite its potential feature creep, Asgardian will be designed with the idea th
 
 Asgardian will also feature something I call "defaults", in which any parts of a sentence not explicitly defined will default to a common value, such that a sentence may be as short as a single word, and will still yet be considered a full sentence and also grammatically coherent.
 
+Project Management
+------------------
+
+The general direction of Asgardian will be recommended by me, Christian, but Asgardian will be made by the people, for the people, by a selected committee.
+
+If you wish to join the committee, please contact me, Christian, via Discord @ ChristianTheSatanist#4885 :)
+
+Current members of the committee are:
+Christian Winslett (Project Lead), DISCORD: ChristianTheSatanist#4885
+Sonja, DISCORD: Lilyanatos#1051
+
 Status
 ------
 
 Asgardian is currently in its beginning stages -- right now, only an alphabet and a few grammar rules are made, and both are still subject to change. There are some milestones to reach before Asgardian can be a fully-featured and usable means of human communication.
+
+All current rules of the language are subject to change via committee vote at any time before the final draft for Asgardian is made.
 
 ASgardian will use 3-point version system similar to [Semantic Versioning](https://semver.org/), with the exception that a YYYYMM number will be used instead of a patch number, and will increment the first of every month.
 
