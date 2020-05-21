@@ -10,7 +10,7 @@ It is my hope that I, and potentially others, can create a language that is logi
 
 Asgardian is meant to be useful, though not necessarily easy. Efficiency is preferred, even if sometimes sacrificing simplicity, though complexity is not the aim, either.
 
-Asgardian is planned to contain features that are seen in many languages, allowing users of Language to be as flexible as possible with the way they express and share their ideas. This will also allow native speakers of various languages to find familiarity in Language, and utilize its flexibility in a way that feels as natural as their own native tongue.
+Asgardian is planned to contain features that are seen in many languages, allowing users of Language to be as flexible as possible with the way they express and share their ideas. This will also allow native speakers of various languages to find familiarity in Asgardian, and utilize its flexibility in a way that feels as natural as their own native tongue.
 
 Despite its potential feature creep, Asgardian will be designed with the idea that what doesn't need to be said, shouldn't be said. Ideas that are commonly expressed in some languages, and are often viewed as relevant by a culture that uses said language, may not have the same level of relevance in another. For example: in English, it is common (and usually expected) for one to specify the sex, or gender, of an individual when speaking of them. In spoken Chinese, it is not very common to specify the sex, or gender, unless it is necessary. Asgardian will not have gendered pronouns, and will not require it unless the speaker provides excess information. This is, of course, not the only example, but it should give potential contributors an idea of how Asgardian is intended to function.
 
