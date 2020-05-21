@@ -23,6 +23,8 @@ The general direction of Asgardian will be recommended by me, Christian, but Asg
 
 If you wish to join the committee, please contact me, Christian, via Discord @ ChristianTheSatanist#4885 :)
 
+~
+
 Current members of the committee are:
 
 Christian Winslett (Project Lead), DISCORD: ChristianTheSatanist#4885
