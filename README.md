@@ -31,6 +31,8 @@ Christian Winslett (Project Lead), DISCORD: ChristianTheSatanist#4885
 
 Sonja, DISCORD: Lilyanatos#1051
 
+Serena, DISCORD: Serendipity#4597
+
 Status
 ------
 
