@@ -33,6 +33,10 @@ Sonja, DISCORD: Lilyanatos#1051
 
 Serena, DISCORD: Serendipity#4597
 
+Nimueh, DISCORD: Nimueh#7013
+
+Michele Sama, DISCORD: -RAX-#7779
+
 Status
 ------
 
