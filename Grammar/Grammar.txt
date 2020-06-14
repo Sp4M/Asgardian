@@ -5,15 +5,9 @@ Pronouns
 3nd Person Singular - "They(sing.)/It"
 
 Notes:
-    Personal pronouns will lack gender
-    Plural forms will just be the singular form + the multiple prefix
-    In English, the 1st person plural, "We", may or may not include the person being spoken to. Im Asgardian, it will never include the person being spoken too. To say "We" that includes the person being spoken too, the speaker must say the forms for the 1st person plural and 2nd person Singular, "We" and "You".
-
-~
-
-Inflection in Asgardian will mostly be used to signify a word's purpose and place
-in a sentence (such as Subject, Object, Verb), but the quality of the words will
-be determined by chains of prefixes.
+	Personal pronouns will lack gender
+	Plural forms will just be the singular form + the multiple prefix
+	In English, the 1st person plural, "We", may or may not include the person being spoken to. Im Asgardian, it will never include the person being spoken too. To say "We" that includes the person being spoken too, the speaker must say the forms for the 1st person plural and 2nd person Singular, "We" and "You".
 
 ~
 
@@ -24,3 +18,6 @@ The Accusative Case
 The Dative Case
 The Genitive Case
 The Vocative Case
+
+Notes:
+	Inflection in Asgardian will mostly be used to signify a word's purpose and place in a sentence (such as Subject, Object, Verb), but the quality of the words will be determined by chains of prefixes.
