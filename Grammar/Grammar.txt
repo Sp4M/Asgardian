@@ -1,16 +1,17 @@
 Pronouns
 
-0th Person Unquantifiable - "no one"
 1st Person Singular - "I"
-2nd Person Singular - "You" (Singular)
-3nd Person Singular - "They (Singular)/It" (This will have no gender)
-1st Person Plural - "We" (Excluding the person/people being spoken to (in order to include the person you're speaking to, you must say the equivalent of "we and you/y'all"))
-2nd Person Plural - "You (Plural)/Y'all/You Guys/All of youse/etc."
-3rd Person Plural - "They"
+2nd Person Singular - "You"
+3nd Person Singular - "They(sing.)/It"
+
+Notes:
+    Personal pronouns will lack gender
+    Plural forms will just be the singular form + the multiple prefix
+    In English, the 1st person plural, "We", may or may not include the person being spoken to. Im Asgardian, it will never include the person being spoken too. To say "We" that includes the person being spoken too, the speaker must say the forms for the 1st person plural and 2nd person Singular, "We" and "You".
 
 ~
 
-Inflection in Language will mostly be used to signify a word's purpose and place
+Inflection in Asgardian will mostly be used to signify a word's purpose and place
 in a sentence (such as Subject, Object, Verb), but the quality of the words will
 be determined by chains of prefixes.
 
