@@ -9,7 +9,7 @@ There are no particular requirements to contribute to this project. However, a b
 Advisory
 --------
 
-First and foremost, an intrinsic bias in Lanaguage's design is inevitable. Even if we turn our backs to one design, we will only end up facing another.
+First and foremost, an intrinsic bias in Language's design is inevitable. Even if we turn our backs to one design, we will only end up facing another.
 
 Instead, we should focus on what the goals are of the language, which is to create something extremely flexible and powerful, whatever that may entail.
 
